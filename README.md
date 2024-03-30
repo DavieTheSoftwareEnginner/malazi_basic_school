@@ -3,7 +3,7 @@ Manages Students and Teachers Records
 # Technologies used
 - java swing
 - MySQL
-# Requirements
+# Features
 - Student Management
 - Accounts Management
 # Screenshots
